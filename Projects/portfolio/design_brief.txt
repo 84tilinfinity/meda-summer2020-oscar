@@ -1,0 +1,17 @@
+Colors for my website
+
+Background: #52364D
+
+A darker purple color was chosen as background. I like purple and I think a dark purple will help maintain visibility of text.
+
+Body Text: #D18AC5
+
+The body text is lighter in order to contrast with the background.
+
+Header Text: #916089
+
+Header text is darker than body, helping identify it as important.
+
+Link Text: #DE92D1
+
+Lighter than the body text, so any viewer can see that it is a link.
