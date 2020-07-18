@@ -1,0 +1,89 @@
+Colors for my website
+
+Background: #52364D
+A darker purple color was chosen as background. I like purple and I think a dark purple will help maintain visibility of text.
+
+Body Text: #D18AC5
+The body text is lighter in order to contrast with the background.
+
+Header Text: #916089
+Header text is darker than body, helping identify it as important.
+
+Link Text: #DE92D1
+Lighter than the body text, so any viewer can see that it is a link.
+
+
+
+Website Layout
+
+HOME
+I have imagined my Home page to be simple and only contain my name and picture, as well as the city I currently reside in and some hobbies. From there, visitors are able to choose where they would like to navigate by clicking on the navigation bar.
+
+ABOUT ME
+My Story: Oscar Handabaka was born in Lima, Peru in the Bellavista district of Callao. At the age of 5, he immigrated to the United States with his parents and sister. His parents chose Hayward, CA as their home and Oscar enjoyed growing up in the East Bay Area. After attending San Jose State University and receiving a degree in Sociology, Oscar moved to San Francisco, CA. He currently resides in the Excelsior district with his girlfriend and daughter.
+
+Experience: Oscar has 7 years of customer service experience after managing 2 high volume restaurants in that period of time. He recently worked for Equator Coffees and was on his way to receiving a location to manage in SF before a shelter in place was ordered by the state. As a result, Oscar was laid off and is currently searching for employment.
+
+Goals: Oscar would like to continue as a cafe manager, enabling him to take classes at CCSF to obtain a certificate for web development. Eventually, he would like to earn an entry level position as a developer.
+
+Current Skills: Oscar currently has 7 years of restaurant management experience, including scheduling, inventory count, onboarding new team members, ordering food and supplies, as well as keeping up to date on local labor laws. Oscar has been taking courses on Javascript, CSS and HTML. Mission Techies from MEDA has helped a lot in the learning process.
+
+PORTFOLIO
+This is section highlights what I am currently working on. Completed projects will be posted as well.
+
+My hobby page will be presented here as my first project.
+
+CONTACT
+Want to get in touch? Please fill out the following form to drop a line!
+
+I will have a contact form available on this page. I will also have my social media anchored to the according logos.
+
+
+Portfolios I Viewed
+
+http://www.pascalvangemert.nl/
+Header: The top turquoise colored header includes the author's name and Captain America.
+Main: Includes "About Me," "Experiences," "Abilities," and "Projects."
+Footer: Contact information and social media links are included in the footer.
+
+What I liked:
+-The ability to jump sections with the navigation bar.
+-The color scheme of the site.
+-The stars that acted as an experience meter for all his different skills.
+
+What I didn't like:
+-It felt too long, if you're scrolling through.
+-Projects section is not very descriptive.
+-I would like there to be a contact form and not just social media/email links.
+
+http://seanhalpin.io/
+Header: Sticky navigation bar at top of page including About, Work and Notes sections.
+Main: The author explains who he is, what he can do, and contact info.
+Footer: Located at the bottom in a light green color, includes some links.
+
+What I liked:
+-Super simple and straight forward.
+-Ability to easily navigate with the sticky navigation bar at the top.
+-The color scheme and icons on the site are warming.
+-I feel it's easy to get in contact with the author if necessary.
+
+What I didn't like:
+-Not much that I didn't like on this site.
+-A "Back to Top" link may have been helpful when navigating through the "Work" page.
+
+
+https://tonydorio.com/
+Header: Navigation bar located on the left side.
+Main: All the pictures located on the site.
+Footer: Contains a copyright.
+
+What I liked:
+-The navigation bar is awesome, I really liked it.
+-The choice of font was great too.
+-The quality of the pictures is amazing.
+-The flow of things after they are elected from the navigation bar is cool.
+
+What I didn't like:
+-I feel there's too many pictures, it slows the site down because of the size of pics
+-The amount of pictures never seems to end, seems like an abyss at times
+-The amount of time it takes everything to load wasn't pleasant
