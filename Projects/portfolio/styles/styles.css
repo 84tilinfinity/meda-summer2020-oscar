@@ -1,0 +1,158 @@
+#body {
+    background-color: #52364D;
+}
+
+h2 {
+    color: #916089;
+}
+
+#container {
+    width: 96%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#header {
+    background-color: #52364D;
+}
+
+#header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 40px;
+}
+
+#header ul {
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#header ul li#name {
+    background-color: #52364D;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 50px;
+    width: 130px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 0px;
+}
+
+#header ul li#name a#home {
+    color: #DE92D1;
+}
+
+#header ul li#name a#home:hover {
+    color: white;
+}
+
+#header ul li {
+    background-color: #DE92D1;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    line-height: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 7px;
+}
+
+#header ul li a:link{
+    color: #52364D;
+    text-decoration: none;
+}
+
+#header ul li a:visited {
+    color: white;
+}
+
+#header ul li a:hover {
+    color: white;
+}
+
+#header ul li a:active {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#main {
+    background-color: #52364D;
+    text-align: center;
+}
+
+#first-section-title {
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#main p {
+    color: #D18AC5;
+    text-align: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    line-height: 22px;
+}
+
+#main p a#resume {
+    color: #DE92D1;
+}
+
+#main p#icons {
+    text-align: center;
+    font-size: 70px;
+}
+
+#main p#icons a#icon-link {
+    color: #D18AC5;
+}
+
+#main img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #52364D;
+    border-radius: 20px;
+}
+
+#footer {
+    height: 50px;
+    text-align: center;
+}
+
+#contact-page {
+    background-color: #52364D;
+}
+
+#contact-page #contact-form {
+    text-align: left;
+    color: #D18AC5;
+    margin-left: 50px;
+}
+
+#contact-page #contact-form input {
+    margin-bottom: 20px;
+    height: 35px;
+    width: 400px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 10px;
+}
+
+#contact-page #contact-form #submit {
+    font-size: 16px;
+    width: 80px;
+}
