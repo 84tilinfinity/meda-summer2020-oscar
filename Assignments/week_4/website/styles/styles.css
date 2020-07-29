@@ -1,0 +1,131 @@
+h2 {
+    color: lightgoldenrodyellow;
+}
+
+#container {
+    width: 700px;
+    border-style: solid;
+    border-width: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#header {
+    background-color: darkgreen;
+}
+
+#header:hover {
+    background-color: yellow;
+}
+
+#header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#header ul {
+    color: white;
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+#header ul li{
+    background-color: lightgreen;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+#header ul li a {
+    color:
+}
+
+#header ul li a:link{
+    color: white;
+    text-decoration: none;
+}
+
+#header ul li a:visited {
+    color: lightcoral;
+}
+
+#header ul li a:hover {
+    color: red;
+}
+
+#header ul li a:active{
+    color: pink;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#main {
+    background-color: green;
+    text-align: center;
+}
+
+#first-section-title {
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#main p {
+    text-align: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    line-height: 22px;
+}
+
+#main img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+    border-radius: 20px;
+}
+
+#main img:hover{
+    border-color: greenyellow;
+}
+
+#footer {
+    height: 50px;
+    text-align: center;
+}
+
+#contact-page #contact-form {
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    text-align: left;
+    margin-left: 50px;
+}
+
+#contact-page #contact-form input {
+    margin-bottom: 20px;
+    height: 50px;
+    width: 400px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgreen;
+    padding-left: 10px;
+}
+
+#contact-page #contact-form #submit {
+    font-size: 20px;
+    width: 100px;
+}
